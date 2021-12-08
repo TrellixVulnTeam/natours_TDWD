@@ -1,0 +1,23 @@
+{
+  "name": "advanced-css-and-sass-flexbox-grid-animations-and-more",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/style.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barbarachagas/advanced-CSS-and-Sass-flexbox-grid-animations-and-more.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barbarachagas/advanced-CSS-and-Sass-flexbox-grid-animations-and-more/issues"
+  },
+  "homepage": "https://github.com/barbarachagas/advanced-CSS-and-Sass-flexbox-grid-animations-and-more#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^7.0.0"
+  }
+}

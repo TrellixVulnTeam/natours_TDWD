@@ -1,10 +1,10 @@
 {
-  "name": "advanced-css-and-sass-flexbox-grid-animations-and-more",
+  "name": "natours",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "compile:sass": "node-sass sass/style.scss css/style.css -w"
+    "compile-sass": "node-sass sass/main.scss css/style.css"
   },
   "repository": {
     "type": "git",
@@ -16,8 +16,7 @@
     "url": "https://github.com/barbarachagas/advanced-CSS-and-Sass-flexbox-grid-animations-and-more/issues"
   },
   "homepage": "https://github.com/barbarachagas/advanced-CSS-and-Sass-flexbox-grid-animations-and-more#readme",
-  "dependencies": {},
   "devDependencies": {
-    "node-sass": "^7.0.0"
+    "node-sass": "^7.0.1"
   }
 }
